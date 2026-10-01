@@ -5,7 +5,7 @@
     class="fixed z-10000 left-4 flex items-center gap-3 py-3 pl-4 pr-3 rounded-xl border border-k-fg-10 bg-k-bg-context-menu text-k-fg shadow-lg"
   >
     <RocketIcon :size="18" class="shrink-0 text-k-fg-70" />
-    <span class="whitespace-nowrap">Koel has been updated.</span>
+    <span class="whitespace-nowrap">Sip has been updated.</span>
     <Btn size="small" variant="highlight" @click="forceReloadWindow">Reload</Btn>
   </article>
 </template>

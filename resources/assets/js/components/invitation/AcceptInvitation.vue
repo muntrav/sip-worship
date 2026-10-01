@@ -7,7 +7,7 @@
       @submit.prevent="submit"
     >
       <header class="mb-4">
-        Welcome to Koel! To accept the invitation, fill in the form below and click that button.
+        Welcome to Sip! To accept the invitation, fill in the form below and click that button.
       </header>
 
       <FormRow>

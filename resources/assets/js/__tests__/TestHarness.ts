@@ -63,7 +63,7 @@ class TestHarness {
 
   private setDefaultBranding() {
     window.KOEL.branding = {
-      name: 'Koel',
+      name: 'Sip - Soak in His Presence',
       logo: '',
       cover: '',
     }

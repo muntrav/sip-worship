@@ -36,7 +36,7 @@ class Organization extends Model
 
     public static function default(): Organization
     {
-        return once(static fn () => self::query()->firstOrCreate(['slug' => self::DEFAULT_SLUG], ['name' => 'Koel']));
+        return once(static fn () => self::query()->firstOrCreate(['slug' => self::DEFAULT_SLUG], ['name' => 'Sip - Soak in His Presence']));
     }
 
     public function users(): HasMany

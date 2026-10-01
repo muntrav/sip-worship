@@ -9,7 +9,7 @@
         class="block w-full bg-k-bg-input text-k-fg-input border border-k-fg-10 resize-none focus:outline-hidden focus:border-k-highlight"
         :placeholder="
           mode === 'initial'
-            ? 'Ask Koel to play songs, create playlists, add radio stations, and more.'
+            ? 'Ask Sip to play songs, create playlists, add radio stations, and more.'
             : 'Send a message…'
         "
         :rows="mode === 'chat' ? 1 : undefined"

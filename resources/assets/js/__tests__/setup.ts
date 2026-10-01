@@ -56,7 +56,7 @@ window.KOEL = {
   build: null,
   is_demo: false,
   pusher: { app_key: '', app_cluster: '' },
-  branding: { name: 'Koel', logo: '', cover: '' },
+  branding: { name: 'Sip - Soak in His Presence', logo: '', cover: '' },
   gravatar: { url: 'https://www.gravatar.com/avatar', default: 'robohash' },
   mailer_configured: true,
   sso_providers: [],

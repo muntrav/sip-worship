@@ -46,7 +46,7 @@
       <CreditsBlock v-if="isDemo" />
 
       <p v-if="!isPlus">
-        Loving Koel? Please consider supporting its development via
+        Loving Sip? Please consider supporting its development via
         <a href="https://github.com/users/phanan/sponsorship" rel="noopener" target="_blank">GitHub Sponsors</a>
         and/or
         <a href="https://opencollective.com/koel" rel="noopener" target="_blank">OpenCollective</a>.

@@ -12,7 +12,9 @@ export const useBranding = () => {
   const isKoelBirdCover = (cover: string) => cover === koelBirdCover
 
   const hasCustomBranding =
-    !isKoelBirdLogo(currentBranding.logo) || !isKoelBirdCover(currentBranding.cover) || currentBranding.name !== 'Koel'
+    !isKoelBirdLogo(currentBranding.logo) ||
+    !isKoelBirdCover(currentBranding.cover) ||
+    currentBranding.name !== 'Sip - Soak in His Presence'
 
   return {
     currentBranding,

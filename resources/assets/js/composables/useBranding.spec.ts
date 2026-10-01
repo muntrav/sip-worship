@@ -48,7 +48,7 @@ describe('useBranding', () => {
     const originalName = window.KOEL.branding.name
     window.KOEL.branding.logo = ''
     window.KOEL.branding.cover = ''
-    window.KOEL.branding.name = 'Koel'
+    window.KOEL.branding.name = 'Sip - Soak in His Presence'
 
     const { hasCustomBranding } = useBranding()
     expect(hasCustomBranding).toBe(false)

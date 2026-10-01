@@ -1,7 +1,7 @@
 <template>
   <article>
     Instead of using a password, you can scan the QR code below to log in to
-    <a href="https://koel.dev/#mobile" target="_blank">Koel Player</a>
+    <a href="https://koel.dev/#mobile" target="_blank">Sip Player</a>
     on your mobile device.<br />
     The QR code refreshes every minute.
 

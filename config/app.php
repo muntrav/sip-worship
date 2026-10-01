@@ -41,7 +41,7 @@ return [
     'tagline' => 'Music streaming solution that works.',
 
     'env' => env('APP_ENV', 'production'),
-    'name' => 'Koel',
+    'name' => 'Sip - Soak in His Presence',
 
     /*
      |--------------------------------------------------------------------------

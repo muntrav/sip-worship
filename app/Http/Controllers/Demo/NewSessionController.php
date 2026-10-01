@@ -27,7 +27,7 @@ class NewSessionController extends Controller
             : Str::take(sha1(config('app.key') . $request->ip()), 8) . '@' . User::DEMO_USER_DOMAIN;
 
         $user = $repository->findOneByEmail($email) ?? $service->createUser(UserCreateData::make(
-            name: 'Koel',
+            name: 'Sip - Soak in His Presence',
             email: $email,
             plainTextPassword: User::DEMO_PASSWORD,
             role: Role::USER,

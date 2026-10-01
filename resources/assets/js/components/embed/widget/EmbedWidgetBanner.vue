@@ -19,7 +19,7 @@
     </div>
 
     <span class="absolute right-3 top-3 size-10 p-1 bg-k-fg-10 rounded-md">
-      <img :src="logo" alt="Koel's logo" />
+      <img :src="logo" alt="Sip's logo" />
     </span>
   </header>
 </template>

@@ -1,6 +1,6 @@
 <template>
   <div class="space-y-4">
-    <AlertBox type="warning"> Two-factor authentication may not work with older versions of Koel Player. </AlertBox>
+    <AlertBox type="warning"> Two-factor authentication may not work with older versions of Sip Player. </AlertBox>
 
     <p>1. Scan this QR code with your authenticator app – Authy, Google Authenticator, etc.</p>
 

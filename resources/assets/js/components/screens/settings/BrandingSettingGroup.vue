@@ -7,7 +7,7 @@
             <label class="text-k-fg" for="brandingName">App name</label>
             <p class="text-[.95rem] text-k-fg-50">Shown in the browser tab and around the app.</p>
           </div>
-          <TextInput id="brandingName" v-model="data.name" name="name" placeholder="Koel" />
+          <TextInput id="brandingName" v-model="data.name" name="name" placeholder="Sip - Soak in His Presence" />
         </section>
 
         <BrandingImageField v-model="data.logo" :default="koelBirdLogo" name="logo">

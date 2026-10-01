@@ -334,7 +334,7 @@ describe('playbackService', () => {
     expect(currentSong.playback_state).toEqual('Stopped')
     expect(pauseMock).toHaveBeenCalled()
     expect(broadcastMock).toHaveBeenCalledWith('SOCKET_PLAYBACK_STOPPED')
-    expect(document.title).toEqual('Koel')
+    expect(document.title).toEqual('Sip - Soak in His Presence')
   })
 
   it('pauses playback', () => {

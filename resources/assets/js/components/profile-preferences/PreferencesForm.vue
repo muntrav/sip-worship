@@ -34,7 +34,7 @@
     </FormRow>
     <FormRow v-if="!onMobile">
       <label class="pref-row">
-        <span>Confirm before closing Koel</span>
+        <span>Confirm before closing Sip</span>
         <CheckBox v-model="preferences.confirm_before_closing" name="confirm_closing" />
       </label>
     </FormRow>

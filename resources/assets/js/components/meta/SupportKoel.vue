@@ -1,7 +1,7 @@
 <template>
   <div v-if="shown" class="bg-k-bg text-[0.9rem] px-6 py-4 flex z-10 space-x-3" data-testid="support-bar">
     <p class="flex-1">
-      Loving Koel? Please consider supporting its development via
+      Loving Sip? Please consider supporting its development via
       <a href="https://github.com/users/phanan/sponsorship" rel="noopener" target="_blank">GitHub Sponsors</a>
       and/or
       <a href="https://opencollective.com/koel" rel="noopener" target="_blank">OpenCollective</a>.
