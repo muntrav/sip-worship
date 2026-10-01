@@ -1,10 +1,10 @@
-# koel [![Frontend Unit Tests](https://github.com/koel/koel/actions/workflows/unit-frontend.yml/badge.svg)](https://github.com/koel/koel/actions/workflows/unit-frontend.yml) ![Code Quality](https://scrutinizer-ci.com/g/phanan/koel/badges/quality-score.png?b=master) [![OpenCollective](https://opencollective.com/koel/backers/badge.svg)](#sponsors-and-backers) [![OpenCollective](https://opencollective.com/koel/sponsors/badge.svg)](#sponsors-and-backers)
+# Sip - Soak in His Presence [![Frontend Unit Tests](https://github.com/koel/koel/actions/workflows/unit-frontend.yml/badge.svg)](https://github.com/koel/koel/actions/workflows/unit-frontend.yml) ![Code Quality](https://scrutinizer-ci.com/g/phanan/koel/badges/quality-score.png?b=master) [![OpenCollective](https://opencollective.com/koel/backers/badge.svg)](#sponsors-and-backers) [![OpenCollective](https://opencollective.com/koel/sponsors/badge.svg)](#sponsors-and-backers)
 
 ![Showcase](https://user-images.githubusercontent.com/8056274/115028055-bc02a280-9ec4-11eb-991c-69cd2a45b69c.png)
 
 ## Intro
 
-**Koel** (also stylized as **koel**, with a lowercase k) is a free, open-source music streaming solution
+**Sip - Soak in His Presence** is a rebranded fork of Koel, a free, open-source music streaming solution
 that turns your personal collection into a sleek, web-based listening experience.
 
 Built on [Laravel](https://laravel.com/) and [Vue](https://vuejs.org/), it scans your music library and 
